@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.body-container{
+  display: flex;
+}
+.App h1{
+  position: sticky;
+}
+.cart{
+  position: sticky;
+}
 
 .App-logo {
   height: 40vmin;
